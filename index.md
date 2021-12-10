@@ -1,4 +1,4 @@
-## Welcome to NFT GitHub Pages
+## Welcome to Uncle Jammer NFT Pages
 
 You can use the [editor on GitHub](https://github.com/UncleJammer/unclejammer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

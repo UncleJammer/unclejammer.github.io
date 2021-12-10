@@ -1,8 +1,10 @@
-## Welcome to Uncle Jammer NFT Pages
+
 
 # Sl8 - соціальна платформа Slate
 
 Основна ідея **Slate** – створити максимально безпечну й доброзичливу до користувачів соцмережу з використанням найсучасніших трендів і технологій. Із чистого аркуша створюємо на роки вперед щось абсолютно нове, не переробляючи наявного. Саме з цього концепту виникла назва соцмережі **Slate** – від фрази _With The Clean Slate_, що в перекладі означає "з чистого аркуша".
+
+## Welcome to Uncle Jammer NFT Pages
 
 You can use the [editor on GitHub](https://github.com/UncleJammer/unclejammer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

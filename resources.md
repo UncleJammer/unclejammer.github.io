@@ -4,7 +4,9 @@ title: Ресурси
 subtitle: Корисні ресурси екосистеми Stellar та платформи Sl8
 ---
 <div id="index_paragraph">
+
 ## Соціальна платформа Sl8
+
 </div>
 My name is Inigo Montoya. I have the following qualities:
 

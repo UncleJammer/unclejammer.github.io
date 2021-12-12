@@ -15,7 +15,13 @@ layout: base
         </div>
       {% endif %}
 
-      {{ content }}
+      {% if page.pid == "resources" %}
+        <div id="index_paragraph">
+          {{ content }}
+        </div>
+      {% else %}
+        {{ content }}
+      {% endif %}
 
       {% if page.after-content %}
         <div class="after-content">

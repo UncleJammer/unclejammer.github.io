@@ -10,6 +10,15 @@ subtitle: Корисні ресурси екосистеми Stellar та пла
 [sl8.online](https://sl8.online/)\
 Офіційний сайт Sl8
 
+[sl8.club](https://sl8.club/)\
+Спільнота фанів Sl8
+
+[Sl8 Support](https://t.me/Sl8_Support)\
+Телеграм-канал підтримки користувачів Sl8
+
+[Sl8 Community](https://t.me/Sl8_Community)\
+Спільнота користувачів Sl8 в Телеграм
+
 What else do you need?<br />
 My name is Inigo Montoya. I have the following qualities:
 

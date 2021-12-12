@@ -7,12 +7,11 @@ subtitle: Корисні ресурси екосистеми Stellar та пла
 
 ### Соціальна платформа Sl8
 
-My name is Inigo Montoya. I have the following qualities:
-
 [sl8.online](https://sl8.online/)
 Офіційний сайт Sl8
 
 What else do you need?
+My name is Inigo Montoya. I have the following qualities:
 
 ### My story
 

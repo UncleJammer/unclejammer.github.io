@@ -686,7 +686,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   display: block;
   font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-weight: 0.100;
+  font-weight: normal;
   margin: 0.625rem 0 0;
 }
 .intro-header .post-heading .post-subheading {

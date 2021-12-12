@@ -5,12 +5,12 @@ title: Ресурси
 subtitle: Корисні ресурси екосистеми Stellar та платформи Sl8
 ---
 
-## Соціальна платформа Sl8
+### Соціальна платформа Sl8
 
 My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+[sl8.online](https://sl8.online/)
+Офіційний сайт Sl8
 
 What else do you need?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Новини від Sl8 #001
+title: Новини від Sl8 &#35;001
 #subtitle: Excerpt from Soulshaping by Jeff Brown
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
